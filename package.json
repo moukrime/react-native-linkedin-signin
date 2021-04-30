@@ -1,0 +1,38 @@
+{
+  "name": "react-native-linkedin-signin",
+  "version": "1.0.0",
+  "description": "React-Native LinkedIn SingIn, a simple LinkedIn login library for React-Native with WebView and Modal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moukrime/react-native-linkedin-signin.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-linkedin",
+    "react-native-linkedin-singin",
+    "linkedin"
+  ],
+  "author": {
+    "name": "Abdelhaq Moukrime",
+    "email": "moukrime.me@gmail.com"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/moukrime/react-native-linkedin-signin/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "query-string": "6.8.3",
+    "ramda": "0.26.1",
+    "uuid": "3.3.3"
+  },
+  "homepage": "https://github.com/moukrime/react-native-linkedin-signin#readme"
+}
